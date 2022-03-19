@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework(좀 그럴듯한 앱)</string>
+    <string name="button1">글자 나타내기</string>
+    <string name="button2">홈페이지 열기</string>
+
+    <string name="radio1">11.0(R)</string>
+    <string name="radio2">12.0(S)</string>
+
+</resources>
